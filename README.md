@@ -23,7 +23,7 @@ BibTeX:
 ```
 This design became a winner of [Xilinx Open Hardware Design Contest 2016](http://www.openhw.eu/2016-finalists.html) in *PhD Embedded Category*.
 
-This repo is a joint release of University of Kaiserslautern, [Microelectronic System Design Research Group](https://ems.eit.uni-kl.de/en/start/): Vladimir Rybalkin, Mohsin Ghaffar, Norbert Wehn in cooperation with [Xilinx, Inc.:](https://www.xilinx.com/) Alessandro Pappalardo, Giulio Gambardella, Michael Gross, Michaela Blott.
+This repo is a joint release of University of Kaiserslautern, [Microelectronic Systems Design Research Group](https://ems.eit.uni-kl.de/en/start/): Vladimir Rybalkin, Muhammad Mohsin Ghaffar, Norbert Wehn in cooperation with [Xilinx, Inc.:](https://www.xilinx.com/) Alessandro Pappalardo, Giulio Gambardella, Michael Gross, Michaela Blott.
 
 ## Quick Start
 
